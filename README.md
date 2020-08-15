@@ -15,10 +15,10 @@ fisher add ovyerus/lumin
 <details>
 <summary>Without a package manager</summary>
 
-Copy [`functions/lumin.fish`](functions/lumin.fish) to any directory on your function path.
+Copy [`functions/fish_prompt.fish`](functions/fish_prompt.fish) to any directory on your function path.
 
 ```fish
-curl https://git.io/lumin.fish --create-dirs -sLo ~/.config/fish/functions/lumin.fish
+curl https://git.io/JJ5gl --create-dirs -sLo ~/.config/fish/functions/fish_prompt.fish
 ```
 
 </details>
